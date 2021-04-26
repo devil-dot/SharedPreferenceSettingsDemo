@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/aquamarineColor"
+        android:title="@string/aquamarine"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/maroonColor"
+        android:title="@string/maroon"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/chartreuseColor"
+        android:title="@string/chartreuse"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/lawnGreenColor"
+        android:title="@string/lawngreene"
+        app:showAsAction="never"
+        />
+
+</menu>
